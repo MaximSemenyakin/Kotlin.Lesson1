@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Kotlin.Lesson1</string>
+    <string name="hello_java">Java</string>
+    <string name="hello_kotlin">Kotlin</string>
+    <string name="hello_world">World</string>
+    <string name="krasodar_weather">Краснодар</string>
+    <string name="moscow_weather">Москва</string>
+    <string name="tokyo_weather">Токио</string>
+    <string name="show_moscow">Показать погоду в Москве</string>
+    <string name="show_tokyo">Показать погоду в Токио</string>
+    <string name="show_krasnodar">Показать погоду в Краснодаре</string>
+</resources>
